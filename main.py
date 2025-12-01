@@ -2,7 +2,7 @@ from random import choice
 from telebot import TeleBot
 
 
-TOKEN = "Токен от BotFather"
+TOKEN = "7987526576:AAHUKP7w5kwZG-Pp7tzfLYzxIo6-E2tu2dg"
 bot = TeleBot(TOKEN)
 game_strings = ["камень", "ножницы", "бумага"]
 
